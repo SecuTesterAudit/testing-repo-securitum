@@ -1,0 +1,17 @@
+*.class
+*.log
+*.jar
+*.iml
+
+.gradle/
+.idea/
+gradle/
+build/
+out/
+bin/
+.DS_Store
+
+dist
+types
+coverage
+node_modules
